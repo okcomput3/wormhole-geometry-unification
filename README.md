@@ -257,7 +257,7 @@ Quantum interference between throat modes
 ### For Reproducibility:
 1. All code is in `.py` files
 2. All use standard libraries (numpy, matplotlib, scipy)
-3. Run any file: `python filename.py`
+3. Run any file: `python file.py`
 4. Generates plots and analysis
 5. Modify and test yourself!
 
@@ -299,7 +299,7 @@ If you use this work:
 ```
 "Geometric Wormhole Resonance Theory: 
  A Unified Description of Fundamental Particle Masses"
-[Your name], December 2025
+Andrew Pliatsikas, December 2025
 
 Theory: m(n) = m_electron × (n/2)²
 Predicts all Standard Model particle masses with 0-2% error
