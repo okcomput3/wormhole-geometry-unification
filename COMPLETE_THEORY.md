@@ -541,7 +541,7 @@ Built through:
 
 If you use this work, please cite:
 "Geometric Wormhole Resonance Theory: A Unified Description of Fundamental Particle Masses"
-[Your name], December 2025
+Andrew Pliatsikas, December 2025
 
 **Theory Summary:** All fundamental particle masses follow m(n) = m_electron × (n/2)² where n is a geometric mode number. Predicts 17 particle masses with 0-2% error using zero adjustable parameters.
 
