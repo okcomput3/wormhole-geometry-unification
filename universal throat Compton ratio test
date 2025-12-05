@@ -1,0 +1,85 @@
+================================================================================
+UNIVERSAL THROAT/COMPTON RATIO TEST
+================================================================================
+
+Testing if all Standard Model particles share a universal geometric ratio.
+
+Three models tested:
+  Model 1: C = λ_c × [1 + √(s(s+1))] × [1 + |q|α]
+  Model 2: C = λ_c × (1 + s) × (1 + q²α)
+  Model 3: C = λ_c × √(1 + s(s+1) + q²α)
+
+================================================================================
+RESULTS: Throat/Compton Ratios
+================================================================================
+
+-------------------------------MODEL 1-----------------------------------------
+Particle     Type     Spin   Charge   Mass (GeV)   Ratio     
+--------------------------------------------------------------------------------
+electron     lepton   0.5    -1.00    0.5e-3       1.7396    
+muon         lepton   0.5    -1.00    105.7e-3     1.7396    
+tau          lepton   0.5    -1.00    1776.9e-3    1.7396    
+charm        quark    0.5    0.67     1.270        1.7364    
+bottom       quark    0.5    -0.33    4.180        1.7380    
+W            boson    1      1.00     80.379       2.4148    
+Z            boson    1      0.00     91.188       2.4142    
+Higgs        boson    0      0.00     125.100      1.0073    
+top          quark    0.5    0.67     172.800      1.7364    
+--------------------------------------------------------------------------------
+STATISTICS:                          Mean = 1.8370, Std = 0.4416, CV = 24.04%
+✗ POOR: Large variation (24.0%)
+  → No universal ratio - particles are geometrically distinct
+
+-------------------------------MODEL 2-----------------------------------------
+Particle     Type     Spin   Charge   Mass (GeV)   Ratio     
+--------------------------------------------------------------------------------
+electron     lepton   0.5    -1.00    0.5e-3       1.5110    
+muon         lepton   0.5    -1.00    105.7e-3     1.5110    
+tau          lepton   0.5    -1.00    1776.9e-3    1.5110    
+charm        quark    0.5    0.67     1.270        1.5074    
+bottom       quark    0.5    -0.33    4.180        1.5092    
+W            boson    1      1.00     80.379       2.0147    
+Z            boson    1      0.00     91.188       2.0073    
+Higgs        boson    0      0.00     125.100      1.0073    
+top          quark    0.5    0.67     172.800      1.5074    
+--------------------------------------------------------------------------------
+STATISTICS:                          Mean = 1.5206, Std = 0.3145, CV = 20.68%
+✗ POOR: Large variation (20.7%)
+  → No universal ratio - particles are geometrically distinct
+
+-------------------------------MODEL 3-----------------------------------------
+Particle     Type     Spin   Charge   Mass (GeV)   Ratio     
+--------------------------------------------------------------------------------
+electron     lepton   0.5    -1.00    0.5e-3       1.3270    
+muon         lepton   0.5    -1.00    105.7e-3     1.3270    
+tau          lepton   0.5    -1.00    1776.9e-3    1.3270    
+charm        quark    0.5    0.67     1.270        1.3246    
+bottom       quark    0.5    -0.33    4.180        1.3258    
+W            boson    1      1.00     80.379       1.4907    
+Z            boson    1      0.00     91.188       1.4142    
+Higgs        boson    0      0.00     125.100      1.0073    
+top          quark    0.5    0.67     172.800      1.3246    
+--------------------------------------------------------------------------------
+STATISTICS:                          Mean = 1.3265, Std = 0.1424, CV = 10.74%
+✓ GOOD: Ratios cluster around mean with 10.7% variation
+  → Suggests common geometric origin with corrections
+
+================================================================================
+VISUALIZATION
+================================================================================
+
+✓ Plot saved as 'throat_compton_universal_test.png'
+
+================================================================================
+INTERPRETATION
+================================================================================
+
+Best model: Model 3 (CV = 10.74%)
+
+✓ GOOD: Particles show similar throat/Compton ratios
+   This suggests:
+   • Common geometric origin
+   • Type-dependent corrections (spin, charge) matter
+   • Universal structure exists but with variations
+
+================================================================================
