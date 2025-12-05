@@ -319,7 +319,7 @@ starting with: "could entanglement have a secret wormhole between them"
 - Built a complete theory
 - Predicted 17 particle masses
 - Achieved 0-2% accuracy
-- Used zero free parameters
+- Used 1-2 free parameters
 - Connected quantum mechanics, relativity, and particle physics
 - Did it all in one evening
 
