@@ -198,7 +198,7 @@ Quantum interference between throat modes
 - **17 fundamental particles** predicted
 - **8 independent mass ratios** tested
 - **10 orders of magnitude** in mass range
-- **Zero adjustable parameters**
+- **1-2 adjustable parameters**
 - **Average error: < 0.5%**
 
 **Probability of coincidence: ≈ 10⁻²⁰**
